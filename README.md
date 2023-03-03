@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
-- 🌱 I’m currently learning **Python Development, CEH**
+- 🌱 I’m currently learning **Python Development, C.E.H.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Subhodip1307](https://github.com/Subhodip1307)
 
