@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Subhodip1307](https://github.com/Subhodip1307)
 
-- 📫 How to reach me **sardarsubhodip857@gmail**
+- 📫 Reach me **sardarsubhodip857@gmail**
 
 
 <p align="left">
