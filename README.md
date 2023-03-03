@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python Development, C.E.H.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Subhodip1307](https://github.com/Subhodip1307)
+- 👨‍💻 All of my projects are available at [https://github.com/Subhodip1307?tab=repositories)
 
 - 📫 Reach me **sardarsubhodip857@gmail**
 
