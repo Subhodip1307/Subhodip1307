@@ -7,7 +7,7 @@
 
 - 🌱 I am fresher and learning new things
 
-- 👨‍💻I can code in python, Html ,Css and still learing more languages
+- 👨‍💻I can code in python, Batch Scripting ,Html ,Css and still learing more languages
 
 - 🌱 Also a Student of C.E.H
 
