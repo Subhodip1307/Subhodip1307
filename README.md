@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Subhodip Sardar</h1>
-<h3 align="center">A passionate python developer, A student of C.E.H, Tech lover</h3>
+<h3 align="center">A passionate Python developer, A student of CTS, a Tech lover</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <img align="center" alt="Hacking" width="400" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
 
 # 💫 About Me:
 
-- 🌱 I am fresher and learning new things
+🌱: I am fresher and learning new things
 
-- 👨‍💻I can code in python, Batch Scripting ,Html ,Css and still learing more languages
+- 👨‍💻I can code in Python, Batch Scripting, HTML, CSS, and VBA, and still learning more languages
 
-- 🌱 Also a Student of C.E.H
+- 🌱 Also a Student CTS
 
-- 📫 Computer lover ❤️
+- 📫 Interested in Programming, Networking, Ethical Hacking
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
