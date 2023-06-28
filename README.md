@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhodip Sardar</h1>
-<h3 align="center">A passionate Python developer, A student of CTS, a Tech lover</h3>
+<h3 align="center">A passionate Python developer, A student of CTS, A Tech lover</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <img align="center" alt="Hacking" width="400" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
 
