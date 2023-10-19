@@ -5,9 +5,9 @@
 
 # 💫 About Me:
 
-🌱: I am fresher and learning new things
+🌱: I am Working as a Backend Devoloper and learning new things
 
-- 👨‍💻I can code in Python, Batch Scripting, HTML, CSS, JS, and VBA, and I am still learning more languages
+- 👨‍💻 Codeing experence in  Python,C,JS,Batch Scripting, HTML,CSS and I am still learning more languages
 
 - 🌱 Belive in self-development.
 
