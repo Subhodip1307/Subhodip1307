@@ -16,4 +16,8 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhodip1307&show_icons=true&locale=en&layout=compact" alt="subhodip1307" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhodip1307&show_icons=true&locale=en&layout=compact" alt="subhodip1307" width="50%"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Subhodip1307.png" alt="Your Image Badge" />
+
+</p>
